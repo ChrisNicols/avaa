@@ -19,6 +19,10 @@ A Time Base Corrector (TBC) will help counteract time base error by storing line
 
 <sub>Three conditions caused by time base error - flagwaving, skew error, and tearing. Source: Global Village flyer, ca. 1980.</sub>
 
+<img src="https://ia801508.us.archive.org/33/items/ScreenShot20180606At10.40.04AM/Screen%20Shot%202018-06-06%20at%2010.52.22%20AM.png">
+
+<sub>Time base error related to difference in mechanical alignment between record and playback machines (Betacam)</sub>
+
 ## See also
 
 Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, "Lengthwise Tape Expansion or Shrinkage" in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.60, videos 9 and 10.
